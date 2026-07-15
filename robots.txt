@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-o8mk1t.lawfordhomedesign.com/sitemap.xml
